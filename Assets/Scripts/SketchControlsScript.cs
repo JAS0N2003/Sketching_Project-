@@ -145,6 +145,7 @@ namespace TiltBrush
             ReadOnlyNotice,
             ShowContribution,
             WhatIsNew,
+            PaintPalette,
 
             // Open Brush Reserved Enums 1000-1999
             LanguagePopup = 1000,
